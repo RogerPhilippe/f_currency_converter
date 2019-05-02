@@ -1,6 +1,10 @@
 # f_currency_converter
 
-A new Flutter application.
+Simples app conversor de moedas.
+
+![title](https://github.com/RogerPhilippe/f_currency_converter/blob/master/images/AppScheenshot.png)
+
+![title](https://github.com/RogerPhilippe/f_currency_converter/blob/master/images/Scheenshot_converter.png)
 
 ## Getting Started
 
